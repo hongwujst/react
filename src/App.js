@@ -4,7 +4,7 @@ import './App.css';
 import Nav from './view/nav_view';
 import View from './view/react_view';
 import Gis from './view/gis_view';
-import Echart from './view/echart_view';
+import Echart from './view/echart_view/MainTest';
 import Svg from './view/svg_view';
 
 class App extends React.Component {
